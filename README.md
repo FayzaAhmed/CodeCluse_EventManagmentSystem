@@ -7,5 +7,5 @@ Develop an event management system for organizing and coordinating events, confe
 ### Technologies:
 - Java, JavaSwing for UI, Database (MySQL) for data storage.
 
-### What You Learn:
+### What I Learn:
 - UI enhancements, database operations, event management.
